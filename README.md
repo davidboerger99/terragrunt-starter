@@ -30,13 +30,12 @@ To use this Terraform starter module, follow these steps:
    terragrunt run-all init
 
 2. **Run Plan**
-```bash
+   ```bash
    terragrunt run-all plan
 
-3. **Run Apply**
-```bash
+1. **Run Apply**
+   ```bash
    terragrunt run-all apply
-
 
 ## Contribution and Support
 
